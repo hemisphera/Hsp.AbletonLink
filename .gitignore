@@ -1,0 +1,11 @@
+﻿.idea
+*/obj/*
+*/bin/*
+*.vcxproj
+Hsp.AbletonLink.Native/link.dir
+Hsp.AbletonLink.Native/Release
+Hsp.AbletonLink.Native/Debug
+Hsp.AbletonLink.Native/CMakeFiles
+*.filters
+Hsp.AbletonLink.Native/cmake_install.cmake
+Hsp.AbletonLink.Native/CMakeCache.txt
